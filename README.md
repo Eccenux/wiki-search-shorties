@@ -1,5 +1,7 @@
 # Wikipedia Search Shorties
-wikipedia-search-shorties
+
+**Wersja alfa (v0)**
+
 Obsługa skrótów w wyszukiwaniu:
 1. Wpisuję "sz:".
 2. Skrypt mi uzupełnia do "Szablon:".
