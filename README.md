@@ -6,3 +6,8 @@ Obsługa skrótów w wyszukiwaniu:
 Najlepiej jakby działało normalnie w pasku wyszukiwania, bo on ma ładne podpowiedzi.
 
 Inne skróty jak w [wiki-ST](https://github.com/Eccenux/wiki-title-ST/) i podobne.
+
+## Linki
+Dev:
+- https://pl.wikipedia.org/wiki/Wikipedysta:Nux/searchShorties-dev.js
+- https://pl.wikipedia.org/wiki/Wikipedysta:Nux/searchShorties-dev.css

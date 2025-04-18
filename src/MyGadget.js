@@ -1,5 +1,5 @@
 /**
- * Wikiploy gadget example.
+ * Wikipedia Search Shorties.
  * 
  * History and docs:
  * https://github.com/Eccenux/wikipedia-search-shorties
